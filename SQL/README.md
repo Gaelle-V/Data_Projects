@@ -3,11 +3,11 @@
 This repository contains SQL projects focused on data cleaning and data exploration, showcasing different SQL techniques applied to real datasets.
 
 ## 📂 Included Files
-SQL/Data_Cleaning_NashvilleHousing.sql : Data cleaning project
-SQL/COVID_PortfolioProject.sql : SQL exploratory analysis
-Data/NashvilleHousing.csv : Dataset used for data cleaning
-Data/CovidDeaths.csv : Dataset for COVID-19 deaths analysis
-Data/CovidVaccinations.csv : Dataset for COVID-19 vaccination analysis
+- SQL/Data_Cleaning_NashvilleHousing.sql : Data cleaning project
+- SQL/COVID_PortfolioProject.sql : SQL exploratory analysis
+- Data/NashvilleHousing.csv : Dataset used for data cleaning
+- Data/CovidDeaths.csv : Dataset for COVID-19 deaths analysis
+- Data/CovidVaccinations.csv : Dataset for COVID-19 vaccination analysis
 
 ## 🛠 Project Descriptions
 📌 Data Cleaning Portfolio Project - Nashville Housing

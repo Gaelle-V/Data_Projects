@@ -17,3 +17,6 @@ This project explores Airbnb rental trends in Barcelona, specifically in the Eix
 ## 🚀 How to Open the Project?
 1. Download all the files
 2. Open Airbnb_Barcelona.twb in **Tableau Desktop**
+
+## 📸 Screenshots
+Some screenshots of the project are included
